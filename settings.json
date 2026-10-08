@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e ' *)",
+      "Bash(node \"C:\\\\Users\\\\ABDALL~1.KAN\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-abdallah-kanash-Documents-vscode-cfc-clone\\\\90f7ef84-1a0c-4cae-8c42-7e93493277f4\\\\scratchpad\\\\route_sweep.js\")"
+    ]
+  }
+}
